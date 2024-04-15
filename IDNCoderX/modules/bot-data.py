@@ -52,11 +52,11 @@ class Buttons:
 
 class Messages:
     START_TEXT = """
-Hi **{}**, I'm **IDNCoderX Unzipper Bot** 😇!
+Hi **{}**, I'm ** Unzipper Bot** 😇!
 
 `I can extract archives like zip, rar, tar etc.`
 
-**Made with ❤️ by @IDNCoder**
+**Made with ❤️ by @kxzen_X**
     """
 
     HELP_TXT = """
@@ -72,12 +72,11 @@ Hi **{}**, I'm **IDNCoderX Unzipper Bot** 😇!
     """
 
     ABOUT_TXT = """
-**About IDNCoderX Unzip Bot,**
+**About  Unzip Bot,**
 ✘ **Language:** [Python](https://www.python.org/)
 ✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)
-✘ **Source Code:** [IDN-C-X/IDN-Unzip-Bot](https://github.com/IDN-C-X/IDN-UnzipBot)
-✘ **Developer:** [zYxDevs](https://github.com/zYxDevs)
-**Made with ❤️ by @IDNCoder**
+✘ **Developer:** [kxzn](https://t.me/kxzen_bots)
+**Made with ❤️ by @kxzen_x**
     """
 
     LOG_TXT = """
@@ -105,13 +104,13 @@ Hi **{}**, I'm **IDNCoderX Unzipper Bot** 😇!
  - `Please make sure archive isn't corrupted`
  - `Please make sure that you selected the right mode!`
  - `May be Your archive format isn't supported 😔`
-**Please report this at @IDNCoderX if you think this is a serious error**
+**Please report this at @kxzen_X if you think this is a serious error**
     """
 
     ERROR_TXT = """
 **Error Happend 😕!**
 **ERROR:** {}
-**Please report this at @IDNCoderX if you think this is a serious error**
+**Please report this at @kxzen_X if you think this is a serious error**
     """
 
     CANCELLED_TXT = """
